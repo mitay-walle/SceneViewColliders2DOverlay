@@ -1,5 +1,10 @@
-# SceneViewColliders2DOverlay
-Unity2D script add SceneView overlay to toggle ProjectSettings/Physics2D/Gizmo Options
+# SceneViewColliders2DOverlay | Physics2D Debugger
+Unity2D script add SceneView overlay to toggle ProjectSettings/Physics2D/Gizmo Options.
+- show all colliders
+- show contacts
+- sho collider's bounds
+- outline
+- fill
 
 ![image](https://github.com/user-attachments/assets/4a7fdab8-69c5-42f5-8c70-58f3755e90e2)
 
