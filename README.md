@@ -3,8 +3,8 @@ Unity2D script add SceneView overlay to toggle ProjectSettings/Physics2D/Gizmo O
 - show all colliders
 - show contacts
 - show collider's bounds
-- outline
-- fill
+- outline (slider 0-1)
+- fill (slider 0-1)
 
 ![colliders_2d_overlay](https://github.com/user-attachments/assets/41f3525f-a784-4aaf-80c0-128d1617f2f5)
 ![{93545BA0-8070-4C31-AE78-4F5BED881E47}](https://github.com/user-attachments/assets/32d71935-0c00-471e-9b50-12d69d9c937c)
