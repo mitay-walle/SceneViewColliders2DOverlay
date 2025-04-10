@@ -31,8 +31,6 @@ namespace Game.Plugins.mitaywalle.Physical2D.QualityOfLife.Editor
 				SerializedProperty property = manager.FindProperty("m_GizmoOptions");
 
 				property.enumValueFlag = (int)(GizmoOptions)context.newValue;
-				EditorUtility.SetDirty(manager.context);
-				AssetDatabase.SaveAssetIfDirty(manager.context);
 				manager.ApplyModifiedProperties();
 			});
 
