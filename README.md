@@ -8,7 +8,8 @@ Unity2D script add SceneView overlay to toggle ProjectSettings/Physics2D/Gizmo O
 
 ![colliders_2d_overlay](https://github.com/user-attachments/assets/41f3525f-a784-4aaf-80c0-128d1617f2f5)
 ![{93545BA0-8070-4C31-AE78-4F5BED881E47}](https://github.com/user-attachments/assets/32d71935-0c00-471e-9b50-12d69d9c937c)
-![Uploading {9675052E-5AF4-4474-829F-313499FE8D0E}.png…]()
+![{A18F90C7-F936-4A6A-AEB1-A3DE9A63AC6A}](https://github.com/user-attachments/assets/c9b0aacb-9b9b-43f4-b1a6-1e1a58a83ac8)
+
 
 
 # Install
