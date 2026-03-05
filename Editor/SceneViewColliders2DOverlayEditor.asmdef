@@ -1,0 +1,16 @@
+{
+    "name": "SceneViewColliders2DOverlayEditor",
+    "rootNamespace": "mitaywalle.Physical2D.QualityOfLife",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "com.mitay-walle.scene-view-colliders2d-overlay",
+  "version": "1.0.1",
+  "displayName": "Scene Overlay Collider2D",
+  "unity": "2018.4",
+  "keywords": [
+    "UI",
+    "Productivity"
+  ],
+  "author": "mitay-walle <mitay-walle91@mail.ru> (https://github.com/mitay-walle)",
+  "_fingerprint": "1dd36e8e95b73a5e097e97b774604dd05ada41ab"
+}
